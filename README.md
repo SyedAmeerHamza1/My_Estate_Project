@@ -1,4 +1,26 @@
-Estate
+Real Estate Project
+This is an educational project.
+In a version 1.0.0, Aim is to create
+1. Analytics Module
+    a. Spatial Analysis
+    b. Price Distribution across sectors
+    c. Price Vs Square Foot Analysis
+    d. Number of rooms Pie Chart
+    e. Top Feature Word Cloud
+2. Price prediction Module
+3. Recommender System Module
+4. Insights Module
+5. Deployment
+
+
+Data:
+Retrieve data from the 99acres website by means of web scraping.
+Data of flats, Independent Houses, Societies.
+
+Data Cleaning:
+
+
+
 ==============================
 
 A short description of the project.
