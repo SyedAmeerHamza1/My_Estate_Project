@@ -13,3 +13,4 @@ pandas
 scikit-learn
 matplotlib
 seaborn
+pandas_profiling
